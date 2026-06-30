@@ -189,18 +189,21 @@ if run_button:
             text_path = None
 
             if csv_file is not None:
+                csv_file.seek(0)
                 tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".csv")
                 tmp.write(csv_file.read())
                 tmp.flush()
                 csv_path = Path(tmp.name)
 
             if json_file is not None:
+                json_file.seek(0)
                 tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".json")
                 tmp.write(json_file.read())
                 tmp.flush()
                 json_path = Path(tmp.name)
 
             if text_file is not None:
+                text_file.seek(0)
                 tmp = tempfile.NamedTemporaryFile(delete=False, suffix=".txt")
                 tmp.write(text_file.read())
                 tmp.flush()
