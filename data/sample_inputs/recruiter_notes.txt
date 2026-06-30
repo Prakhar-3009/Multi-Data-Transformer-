@@ -1,0 +1,32 @@
+Recruiter Notes — Q2 2025 Pipeline Review
+==========================================
+
+Spoke with John Smith today about the platform engineering role. He's currently at Google in Bangalore, been there about 8 years now working as a Senior ML Engineer. Solid background — he's been leading their ML infrastructure team and published 3 papers on distributed training. Reach him at john.smith@email.com or +919876543210. Very experienced in Python, TensorFlow, Kubernetes, AWS and Machine Learning. Referred by our VP of Engineering, would be a great fit for the AI platform team. Based in Bangalore, India.
+
+---
+
+Met Priya Sharma last month at the PyTorch conference. Currently working as a Senior Data Scientist at Microsoft in Mumbai. She's done impressive work on Azure Cognitive Services NLP models — published researcher with a strong academic background from IISc. About 6 years of experience. She knows Python, Deep Learning, NLP, PyTorch, SQL and TensorFlow. Very articulate about MLOps practices and expressed interest in moving to a product-focused DS role. Her email is priya.sharma@techcorp.com, phone 8765432109. Based in Mumbai, India.
+
+---
+
+Interviewed Rahul Patel for the backend lead position. He's at Amazon, works as a Senior Backend Developer in Hyderabad. Built their order processing pipeline that handles 50K orders per second — very strong in distributed systems and event-driven architecture. 5 years in the industry. Clean code practitioner and active open-source contributor. Proficient in Java, Spring Boot, PostgreSQL, Kubernetes, AWS and Microservices. Contact: rahul.p@email.com, +917654321098. Located in Hyderabad, India.
+
+---
+
+Regarding Amit Kumar — had a great conversation about the frontend lead opportunity. He's been at Flipkart for a while now, currently a Full Stack Developer in Delhi. Built the entire seller analytics dashboard from scratch. 4 years experience, previously was at Ola working on rider-side web components. Experienced in JavaScript, React, Node.js, MongoDB, GraphQL and TypeScript. Very eager to move into a senior role. Email: amit.k@startup.io, phone +919988776601. Based in Delhi, India.
+
+---
+
+Spoke to Deepak Joshi about our cloud infra opening. He's currently at Infosys, been there about 3 years doing Azure cloud migration for a major banking client. Has multiple Azure certifications. Reliable, detail-oriented guy — would be solid for platform engineering. Knows Docker, Kubernetes, Azure, Terraform and Ansible. Can be reached at deepak.j@infosys.com, 9567890123. Based in Pune, India.
+
+---
+
+Had a long call with Neha Gupta today. She's been leading the delivery experience vertical at Swiggy in Bangalore — achieved 3x growth in daily active users. 7 years total experience, previously was at PhonePe working on UPI payments. MBA from IIM Ahmedabad. What impressed me most is she runs SQL queries herself rather than depending on analysts. Also experienced with Analytics, A/B Testing and product strategy. Strong recommend. Email neha.gupta@gmail.com, phone +919012345678. Currently working as a Senior Product Manager. Based in Bangalore, India.
+
+---
+
+About Arjun Reddy — spoke to him regarding the DevOps role. Currently at Razorpay in Hyderabad managing all their Kubernetes clusters, around 200+ pods across 3 environments. 5 years experience, previously was at TCS doing cloud migration work. Very practical, hands-on engineer interested in SRE-type roles with more ownership. Proficient in Docker, Kubernetes, Terraform, AWS, Jenkins and CI/CD. Reach him at arjun.reddy@outlook.com or +918123456789. Located in Hyderabad, India.
+
+---
+
+Interviewed Meera Nair last Friday at a QA meetup. She leads the QA automation team at Zoho in Chennai, 4 years experience. Built their entire regression suite from scratch. Very process-oriented — implemented shift-left testing that reduced post-release bugs by 40%. Knows Selenium, Python, JIRA, Test Automation and Cypress. Looking for a role with more scope and ownership. Good culture fit for us. Email: meera.nair@gmail.com, phone 8567890123. Currently working as a QA Lead. Based in Chennai, India.

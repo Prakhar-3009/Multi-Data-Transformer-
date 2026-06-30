@@ -1,0 +1,13 @@
+{
+  "fields": [
+    {"path": "candidate", "from": "full_name", "type": "string", "required": true},
+    {"path": "email", "from": "emails[0]", "type": "string"},
+    {"path": "top_skills", "from": "skills[].name", "type": "string[]"},
+    {"path": "github_profile", "from": "links.github", "type": "string", "on_missing": "omit"},
+    {"path": "years_exp", "from": "years_experience", "type": "number"},
+    {"path": "current_role", "from": "title", "type": "string", "on_missing": "null"}
+  ],
+  "include_confidence": true,
+  "include_provenance": false,
+  "on_missing": "null"
+}

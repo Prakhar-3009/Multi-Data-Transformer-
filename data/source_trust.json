@@ -1,0 +1,7 @@
+{
+  "source_trust": {
+    "csv": 0.95,
+    "ats_json": 0.90,
+    "recruiter_notes": 0.60
+  }
+}

@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "eightfold-candidate-transformer"
+version = "1.0.0"
+description = "Multi-source candidate data transformer with entity resolution, merge, and configurable output projection."
+requires-python = ">=3.10"
+dependencies = [
+    "pydantic>=2.0,<3.0",
+    "phonenumbers>=8.13",
+    "python-dateutil>=2.8",
+    "rapidfuzz>=3.0",
+    "pycountry>=23.12",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=7.0",
+    "pytest-cov>=4.0",
+]
+
+[project.scripts]
+candidate-transformer = "src.cli:main"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

@@ -1,0 +1,11 @@
+{
+  "fields": [
+    {"path": "candidate_name", "from": "full_name", "type": "string", "required": true},
+    {"path": "contact_email", "from": "emails[0]", "type": "string", "required": true},
+    {"path": "skill_list", "from": "skills[].name", "type": "string[]"},
+    {"path": "company", "from": "current_company", "type": "string", "on_missing": "omit"}
+  ],
+  "include_confidence": false,
+  "include_provenance": false,
+  "on_missing": "null"
+}

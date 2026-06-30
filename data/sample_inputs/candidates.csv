@@ -1,0 +1,13 @@
+name,email,phone,company,title,location,skills,years_experience
+John Smith,john.smith@email.com,+919876543210,Google,Senior ML Engineer,"Bangalore, India","Python, Machine Learning, Docker, Kubernetes, AWS",8
+Priya Sharma,priya.sharma@techcorp.com,+918765432109,Microsoft,Data Scientist,"Mumbai, India","Python, SQL, TensorFlow, Deep Learning, NLP, PyTorch",6
+Rahul Patel,rahul.p@email.com,+917654321098,Amazon,Backend Developer,"Hyderabad, India","Java, Spring Boot, AWS, PostgreSQL, Kubernetes, Spring Framework",5
+Jane Doe,jane.doe@company.org,+14155552671,Meta,Engineering Manager,"San Francisco, US","SQL, Agile, System Design, Leadership",12
+Amit Kumar,amit.k@startup.io,+919988776601,Flipkart,Full Stack Developer,"Delhi, India","JavaScript, React, Node.js, MongoDB, GraphQL, TypeScript",4
+Priya Sharma,priya.sharma@techcorp.com,+918765432109,Microsoft,Data Scientist,"Mumbai, India","Python, SQL, TensorFlow, Deep Learning, NLP, PyTorch",6
+Neha Gupta,neha.gupta@gmail.com,+919012345678,Swiggy,Product Manager,"Bangalore, India","Product Strategy, A/B Testing, SQL, Jira, Analytics",7
+Arjun Reddy,arjun.reddy@outlook.com,+918123456789,Razorpay,DevOps Engineer,"Hyderabad, India","Docker, Kubernetes, Terraform, CI/CD, AWS, Jenkins",5
+Sarah Chen,sarah.chen@techmail.com,+16505551234,Stripe,Staff Engineer,"Palo Alto, US","Go, Distributed Systems, gRPC, PostgreSQL, Redis",10
+Vikram Singh,vikram.s@yahoo.com,+919345678901,Zomato,Android Developer,"Pune, India","Kotlin, Java, Android SDK, Firebase, Room DB",4
+Ananya Iyer,ananya.iyer@protonmail.com,+918234567890,Freshworks,Frontend Lead,"Chennai, India","React, TypeScript, GraphQL, CSS, Webpack, Next.js",6
+Ravi Krishnan,ravi.k@datamail.com,+917012345678,Myntra,Data Engineer,"Bangalore, India","Spark, Python, Airflow, Kafka, Hive, AWS Glue",5

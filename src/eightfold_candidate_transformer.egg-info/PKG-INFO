@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: eightfold-candidate-transformer
+Version: 1.0.0
+Summary: Multi-source candidate data transformer with entity resolution, merge, and configurable output projection.
+Requires-Python: >=3.10
+Requires-Dist: pydantic<3.0,>=2.0
+Requires-Dist: phonenumbers>=8.13
+Requires-Dist: python-dateutil>=2.8
+Requires-Dist: rapidfuzz>=3.0
+Requires-Dist: pycountry>=23.12
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"
+Requires-Dist: pytest-cov>=4.0; extra == "dev"

@@ -1,0 +1,283 @@
+[
+  {
+    "candidate_name": "John Smith",
+    "email_address": "john.smith@email.com",
+    "contact_phone": "+919876543210",
+    "company": "Google",
+    "position": "Senior Machine Learning Engineer",
+    "technical_skills": ["Python", "TensorFlow", "Kubernetes", "Docker", "Machine Learning"],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Senior ML Engineer",
+        "start": "2020-03",
+        "end": null,
+        "summary": "Leading ML infrastructure team for search ranking"
+      },
+      {
+        "company": "Amazon",
+        "title": "ML Engineer",
+        "start": "2017-06",
+        "end": "2020-02",
+        "summary": "Built recommendation engine for product suggestions"
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIT Bombay",
+        "degree": "M.Tech",
+        "field": "Computer Science",
+        "end_year": 2017
+      }
+    ],
+    "city": "Bangalore",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/johnsmith-ml",
+    "years_of_experience": 8
+  },
+  {
+    "candidate_name": "Priya Sharma",
+    "email_address": "priya.sharma@techcorp.com",
+    "contact_phone": "+918765432109",
+    "company": "Microsoft",
+    "position": "Senior Data Scientist",
+    "technical_skills": ["Python", "PyTorch", "Deep Learning", "SQL", "NLP", "Hugging Face"],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Senior Data Scientist",
+        "start": "2021-01",
+        "end": null,
+        "summary": "Leading NLP team for Azure Cognitive Services"
+      },
+      {
+        "company": "Flipkart",
+        "title": "Data Scientist",
+        "start": "2018-07",
+        "end": "2020-12",
+        "summary": "Search relevance and ranking models"
+      }
+    ],
+    "education": [
+      {
+        "institution": "IISc Bangalore",
+        "degree": "MS",
+        "field": "Artificial Intelligence",
+        "end_year": 2018
+      }
+    ],
+    "city": "Mumbai",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/priyasharma-ds",
+    "years_of_experience": 6
+  },
+  {
+    "candidate_name": "Rahul Patel",
+    "email_address": "rahul.p@email.com",
+    "contact_phone": "+917654321098",
+    "company": "Amazon",
+    "position": "Senior Backend Developer",
+    "technical_skills": ["Java", "Spring Boot", "AWS", "PostgreSQL", "Kubernetes", "Microservices"],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Senior Backend Developer",
+        "start": "2021-04",
+        "end": null,
+        "summary": "Building high-throughput order processing pipeline"
+      },
+      {
+        "company": "Infosys",
+        "title": "Software Engineer",
+        "start": "2019-01",
+        "end": "2021-03",
+        "summary": "Enterprise Java development for banking clients"
+      }
+    ],
+    "education": [
+      {
+        "institution": "NIT Trichy",
+        "degree": "B.Tech",
+        "field": "Computer Science",
+        "end_year": 2019
+      }
+    ],
+    "city": "Hyderabad",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/rahulpatel-dev",
+    "years_of_experience": 5
+  },
+  {
+    "candidate_name": "Sneha Reddy",
+    "email_address": "sneha.r@techmail.com",
+    "contact_phone": "+919988776655",
+    "company": "Adobe",
+    "position": "UI/UX Engineer",
+    "technical_skills": ["React", "TypeScript", "CSS", "Figma", "HTML"],
+    "experience": [
+      {
+        "company": "Adobe",
+        "title": "UI/UX Engineer",
+        "start": "2022-01",
+        "end": null,
+        "summary": "Building design system components for Adobe Express"
+      }
+    ],
+    "education": [
+      {
+        "institution": "BITS Pilani",
+        "degree": "B.E.",
+        "field": "Computer Science",
+        "end_year": 2021
+      }
+    ],
+    "city": "Bangalore",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/snehareddy",
+    "years_of_experience": 3
+  },
+  {
+    "candidate_name": "Amit Kumar",
+    "email_address": "amit.k@startup.io",
+    "contact_phone": "+919988776601",
+    "company": "Flipkart",
+    "position": "Full Stack Developer",
+    "technical_skills": ["JavaScript", "React", "Node.js", "MongoDB", "TypeScript", "GraphQL"],
+    "experience": [
+      {
+        "company": "Flipkart",
+        "title": "Full Stack Developer",
+        "start": "2021-08",
+        "end": null,
+        "summary": "Building seller dashboard and analytics platform"
+      },
+      {
+        "company": "Ola",
+        "title": "Frontend Developer",
+        "start": "2020-01",
+        "end": "2021-07",
+        "summary": "Rider app web view components"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Delhi Technological University",
+        "degree": "B.Tech",
+        "field": "Information Technology",
+        "end_year": 2020
+      }
+    ],
+    "city": "Delhi",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/amitkumar-fs",
+    "years_of_experience": 4
+  },
+  {
+    "candidate_name": "Neha Gupta",
+    "email_address": "neha.gupta@gmail.com",
+    "contact_phone": "+919012345678",
+    "company": "Swiggy",
+    "position": "Senior Product Manager",
+    "technical_skills": ["Product Strategy", "SQL", "A/B Testing", "Analytics", "Mixpanel"],
+    "experience": [
+      {
+        "company": "Swiggy",
+        "title": "Senior Product Manager",
+        "start": "2020-06",
+        "end": null,
+        "summary": "Owning the delivery experience vertical, 3x growth in DAU"
+      },
+      {
+        "company": "PhonePe",
+        "title": "Product Manager",
+        "start": "2018-02",
+        "end": "2020-05",
+        "summary": "UPI payments and merchant onboarding"
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIM Ahmedabad",
+        "degree": "MBA",
+        "field": "Product Management",
+        "end_year": 2018
+      }
+    ],
+    "city": "Bangalore",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/nehagupta-pm",
+    "years_of_experience": 7
+  },
+  {
+    "candidate_name": "Sarah Chen",
+    "email_address": "sarah.chen@techmail.com",
+    "contact_phone": "+16505551234",
+    "company": "Stripe",
+    "position": "Staff Software Engineer",
+    "technical_skills": ["Go", "Distributed Systems", "gRPC", "PostgreSQL", "Redis", "Kafka"],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Staff Engineer",
+        "start": "2019-03",
+        "end": null,
+        "summary": "Leading payments infrastructure scaling to 10M+ TPS"
+      },
+      {
+        "company": "Google",
+        "title": "Senior SWE",
+        "start": "2015-08",
+        "end": "2019-02",
+        "summary": "Cloud Spanner distributed database team"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Stanford University",
+        "degree": "MS",
+        "field": "Computer Science",
+        "end_year": 2015
+      }
+    ],
+    "city": "Palo Alto",
+    "country": "US",
+    "linkedin_url": "https://linkedin.com/in/sarahchen-eng",
+    "years_of_experience": 10
+  },
+  {
+    "candidate_name": "Arjun Reddy",
+    "email_address": "arjun.reddy@outlook.com",
+    "contact_phone": "+918123456789",
+    "company": "Razorpay",
+    "position": "DevOps Engineer",
+    "technical_skills": ["Docker", "Kubernetes", "Terraform", "AWS", "Jenkins", "CI/CD"],
+    "experience": [
+      {
+        "company": "Razorpay",
+        "title": "DevOps Engineer",
+        "start": "2021-01",
+        "end": null,
+        "summary": "Infrastructure automation and Kubernetes cluster management"
+      },
+      {
+        "company": "TCS",
+        "title": "Systems Engineer",
+        "start": "2019-07",
+        "end": "2020-12",
+        "summary": "Cloud migration projects for banking clients"
+      }
+    ],
+    "education": [
+      {
+        "institution": "JNTU Hyderabad",
+        "degree": "B.Tech",
+        "field": "Computer Science",
+        "end_year": 2019
+      }
+    ],
+    "city": "Hyderabad",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/arjunreddy-devops",
+    "years_of_experience": 5
+  }
+]

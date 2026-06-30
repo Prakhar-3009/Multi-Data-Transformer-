@@ -1,0 +1,82 @@
+[
+  {
+    "candidate_name": "Priya Sharma",
+    "contact_email": "priya.sharma@techcorp.com",
+    "skill_list": [
+      "Deep Learning",
+      "Natural Language Processing",
+      "PyTorch",
+      "Python",
+      "SQL",
+      "TensorFlow"
+    ],
+    "company": "Microsoft"
+  },
+  {
+    "candidate_name": "Sneha Reddy",
+    "contact_email": "sneha.r@techmail.com",
+    "skill_list": [
+      "CSS",
+      "HTML",
+      "React",
+      "TypeScript"
+    ],
+    "company": "Adobe"
+  },
+  {
+    "candidate_name": "John Smith",
+    "contact_email": "john.smith@email.com",
+    "skill_list": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Machine Learning",
+      "Python"
+    ],
+    "company": "Google"
+  },
+  {
+    "candidate_name": "Rahul Patel",
+    "contact_email": "rahul.p@email.com",
+    "skill_list": [
+      "AWS",
+      "Java",
+      "Kubernetes",
+      "PostgreSQL",
+      "Spring Boot",
+      "Spring Framework"
+    ],
+    "company": "Amazon"
+  },
+  {
+    "candidate_name": "Jane Doe",
+    "contact_email": "jane.doe@company.org",
+    "skill_list": [
+      "Agile",
+      "SQL"
+    ],
+    "company": "Meta"
+  },
+  {
+    "candidate_name": "Deepak Joshi",
+    "contact_email": "deepak.j@infosys.com",
+    "skill_list": [
+      "Docker",
+      "Kubernetes"
+    ],
+    "company": "Infosys"
+  },
+  {
+    "candidate_name": "Amit Kumar",
+    "contact_email": "amit.k@startup.io",
+    "skill_list": [
+      "GraphQL",
+      "JavaScript",
+      "MongoDB",
+      "Node.js",
+      "React",
+      "TypeScript"
+    ],
+    "company": "Flipkart"
+  }
+]
