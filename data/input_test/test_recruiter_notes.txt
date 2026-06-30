@@ -1,0 +1,32 @@
+Recruiter Notes — Q3 2025 Screening Round
+==========================================
+
+Spoke with Karan Mehta this week about the payments infrastructure role. He's currently at Paytm in Noida as a Lead Backend Engineer — been there 6 years. Very strong in Java and distributed systems, knows Kafka deeply and has actually designed their retry architecture from scratch. Reach him at karan.mehta@gmail.com or +91 9876 001234. Skills include Java, Kafka, PostgreSQL, Docker, Microservices and Spring Boot. Seemed very motivated, mentioned he's looking for a role with higher ownership and international exposure. Based in Noida, India.
+
+---
+
+Divya Nair came up as a referral from our Bangalore team. She's a Data Scientist at Walmart Labs — about 4 years of total experience. She's worked on supply chain forecasting using Spark and scikit-learn, seems solid on the fundamentals. I couldn't get her to confirm years of experience clearly — she said "around 4 years" — so take that number with a grain of salt. Her email is divya.nair@outlook.com, phone she gave me was 9845001234 (no country code, confirmed India). Skills: Python, SQL, scikit-learn, Pandas and Spark. Mentioned she also does some TensorFlow but hasn't used it in production. Based in Bangalore.
+
+---
+
+Had a video call with Carlos Rivera. He told me he's currently at Netflix as a Senior SWE — but his LinkedIn says Meta as of April 2022, so there might be a discrepancy. Will need to verify. Either way very strong candidate — 9 years experience in distributed systems and infrastructure. Email carlos.r@techmail.com, US number +1 (408) 555-9923. Proficient in Python, Go, Kafka, Distributed Systems and Redis. Based in Los Angeles currently. Would be a strong candidate for the platform team.
+
+---
+
+Tanvi Joshi reached out proactively about our PM opening. She's a Senior PM at CRED in Bangalore, 5 years experience including prior stint at BharatPe. She's quite technical for a PM — runs her own SQL queries, has done A/B testing at scale. CRED role has given her exposure to credit and fintech products which is directly relevant. Contact: tanvi.joshi@protonmail.com, phone +91-8800-445566. Skills include Product Strategy, SQL, A/B Testing and Analytics. Good communicator, strong recommend. Based in Bangalore, India.
+
+---
+
+Mohammed Al-Farsi is a strong ML candidate based in Dubai. He's at Careem right now working on demand prediction for ride-hailing — 7 years experience total including 3 years at Noon doing e-commerce recommendations. Familiar with the MENA market which is a plus for us. Email m.alfarsi@corp.ae, phone +971 50 123 4567. Core skills: Python, TensorFlow, Machine Learning, AWS, NLP and Docker. Visa situation is unclear — need to follow up on whether he needs sponsorship for an India/Singapore role.
+
+---
+
+Ankit Bose is early career but impressive for 3 years in. He's a Data Engineer at Ola in Kolkata — was actually at Rapido briefly before that I think, or maybe the other way around. Notes are a bit confused here, will confirm. Good fundamentals in Spark and Kafka. Email ankit.b@datamail.com, phone 08977001122 (no country code given, India number). Skills: Spark, Airflow, Kafka, Python, Hive. Bit quiet on the call but technically sound. Based in Kolkata.
+
+---
+
+Quick note on Shreya Kapoor — she's a backend dev at Zerodha in Bangalore, 2 years experience, recent grad from VIT. Very sharp despite short tenure. Worked on trading engine APIs which is technically demanding. Email shreya.k@fintech.in, phone +91 9711 223344. Skills include Python, Go, PostgreSQL, Redis and Docker. Would be worth fast-tracking given the quality of her work at Zerodha. Based in Bangalore.
+
+---
+
+Lucas Fernandez reached out from Sao Paulo — he's a Senior Data Engineer at Nubank, 8 years experience. The fraud scoring pipeline he built processes 50M events per day, which is impressive scale. He mentioned interest in relocating to Asia — Singapore specifically. Primary languages are Scala and Python, strong on Spark and Kafka. Email lucas.f@devmail.com, Brazilian mobile +55 11 99988 7766. Skills: Scala, Apache Spark, Kafka, Python, AWS and Terraform. International hire so will need to loop in the mobility team. Based in Sao Paulo, Brazil.

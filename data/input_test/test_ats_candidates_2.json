@@ -1,0 +1,290 @@
+[
+  {
+    "candidate_name": "Siddharth Rao",
+    "email_address": "sid.rao@gmail.com",
+    "contact_phone": "+918877001122",
+    "company": "Zepto",
+    "position": "Staff Software Engineer",
+    "technical_skills": ["Python", "Go", "Kubernetes", "PostgreSQL", "Redis", "Distributed Systems"],
+    "experience": [
+      {
+        "company": "Zepto",
+        "title": "Staff Software Engineer",
+        "start": "2023-03",
+        "end": null,
+        "summary": "Owns dark store inventory and routing backend, 99.9% uptime SLA"
+      },
+      {
+        "company": "Groww",
+        "title": "Senior Software Engineer",
+        "start": "2020-07",
+        "end": "2023-02",
+        "summary": "Mutual fund order processing and portfolio tracking APIs"
+      }
+    ],
+    "education": [
+      {
+        "institution": "BITS Pilani",
+        "degree": "B.E.",
+        "field": "Computer Science",
+        "end_year": 2020
+      }
+    ],
+    "city": "Bangalore",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/siddharthrao-swe",
+    "years_of_experience": 5
+  },
+  {
+    "candidate_name": "Fatima Malik",
+    "email_address": "fatima.m@outlook.com",
+    "contact_phone": "+6591234567",
+    "company": "Grab",
+    "position": "Senior Data Scientist",
+    "technical_skills": ["Python", "PyTorch", "Machine Learning", "Apache Spark", "SQL", "Airflow"],
+    "experience": [
+      {
+        "company": "Grab",
+        "title": "Senior Data Scientist",
+        "start": "2021-02",
+        "end": null,
+        "summary": "Surge pricing and demand forecasting for Southeast Asia markets"
+      },
+      {
+        "company": "Shopee",
+        "title": "Data Scientist",
+        "start": "2018-09",
+        "end": "2021-01",
+        "summary": "Product recommendation and search ranking models"
+      }
+    ],
+    "education": [
+      {
+        "institution": "National University of Singapore",
+        "degree": "M.Sc.",
+        "field": "Statistics",
+        "end_year": 2018
+      }
+    ],
+    "city": "Singapore",
+    "country": "SG",
+    "linkedin_url": "https://linkedin.com/in/fatimamalik-ds",
+    "years_of_experience": 6
+  },
+  {
+    "candidate_name": "James Okafor",
+    "email_address": "j.okafor@techcorp.io",
+    "contact_phone": "+2348012345678",
+    "company": "Andela",
+    "position": "Senior Backend Engineer",
+    "technical_skills": ["Node.js", "TypeScript", "MongoDB", "PostgreSQL", "Docker", "AWS"],
+    "experience": [
+      {
+        "company": "Andela",
+        "title": "Senior Backend Engineer",
+        "start": "2022-01",
+        "end": null,
+        "summary": "Platform engineering for distributed remote engineering teams"
+      },
+      {
+        "company": "Flutterwave",
+        "title": "Backend Engineer",
+        "start": "2020-03",
+        "end": "2021-12",
+        "summary": "Payment APIs and cross-border transfer infrastructure"
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Lagos",
+        "degree": "B.Sc.",
+        "field": "Computer Science",
+        "end_year": 2019
+      }
+    ],
+    "city": "Lagos",
+    "country": "NG",
+    "linkedin_url": "https://linkedin.com/in/jamesokafor-be",
+    "years_of_experience": 4
+  },
+  {
+    "candidate_name": "Pooja Verma",
+    "email_address": "pooja.v@yahoo.com",
+    "contact_phone": "+919910112233",
+    "company": "Meesho",
+    "position": "ML Engineer",
+    "technical_skills": ["Python", "TensorFlow", "PyTorch", "Machine Learning", "Kubernetes", "MLOps"],
+    "experience": [
+      {
+        "company": "Meesho",
+        "title": "ML Engineer",
+        "start": "2022-09",
+        "end": null,
+        "summary": "Recommendation and ranking models for social commerce"
+      },
+      {
+        "company": "PhonePe",
+        "title": "ML Engineer",
+        "start": "2020-06",
+        "end": "2022-08",
+        "summary": "Fraud detection and transaction risk scoring"
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIT Roorkee",
+        "degree": "B.Tech",
+        "field": "Computer Science",
+        "end_year": 2020
+      }
+    ],
+    "city": "Bangalore",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/poojaverma-ml",
+    "years_of_experience": 5
+  },
+  {
+    "candidate_name": "Nadia Hassan",
+    "email_address": "nadia.h@protonmail.com",
+    "contact_phone": "+201001234567",
+    "company": "Instabug",
+    "position": "Frontend Engineering Lead",
+    "technical_skills": ["React", "TypeScript", "Next.js", "GraphQL", "CSS", "Node.js"],
+    "experience": [
+      {
+        "company": "Instabug",
+        "title": "Frontend Engineering Lead",
+        "start": "2020-04",
+        "end": null,
+        "summary": "Leading frontend team building in-app bug reporting SDK"
+      },
+      {
+        "company": "Vezeeta",
+        "title": "Frontend Developer",
+        "start": "2017-08",
+        "end": "2020-03",
+        "summary": "Patient portal and doctor booking flow"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Cairo University",
+        "degree": "B.Sc.",
+        "field": "Computer Engineering",
+        "end_year": 2017
+      }
+    ],
+    "city": "Cairo",
+    "country": "EG",
+    "linkedin_url": "https://linkedin.com/in/nadiahassan-fe",
+    "years_of_experience": 7
+  },
+  {
+    "candidate_name": "Varun Agarwal",
+    "email_address": "varun.ag@datamail.com",
+    "contact_phone": "+917788990011",
+    "company": "Dream11",
+    "position": "Senior Data Engineer",
+    "technical_skills": ["Apache Spark", "Python", "Apache Kafka", "Apache Airflow", "Snowflake", "dbt"],
+    "experience": [
+      {
+        "company": "Dream11",
+        "title": "Senior Data Engineer",
+        "start": "2022-04",
+        "end": null,
+        "summary": "Real-time fantasy sports scoring pipeline handling 10M concurrent users during IPL"
+      },
+      {
+        "company": "MakeMyTrip",
+        "title": "Data Engineer",
+        "start": "2020-08",
+        "end": "2022-03",
+        "summary": "Hotel pricing ETL pipeline and revenue analytics warehouse"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Delhi Technological University",
+        "degree": "B.Tech",
+        "field": "Information Technology",
+        "end_year": 2020
+      }
+    ],
+    "city": "Mumbai",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/varunagarwal-de",
+    "years_of_experience": 4
+  },
+  {
+    "candidate_name": "Priya Krishnamurthy",
+    "email_address": "priya.km@email.com",
+    "contact_phone": "+918866001234",
+    "company": "Unacademy",
+    "position": "Director of Product",
+    "technical_skills": ["Product Strategy", "SQL", "A/B Testing", "Analytics", "OKRs", "Figma"],
+    "experience": [
+      {
+        "company": "Unacademy",
+        "title": "Director of Product",
+        "start": "2021-11",
+        "end": null,
+        "summary": "Owns learner engagement and subscription product across 3 verticals"
+      },
+      {
+        "company": "Byju's",
+        "title": "Senior Product Manager",
+        "start": "2016-05",
+        "end": "2021-10",
+        "summary": "K-12 adaptive learning engine and content recommendation"
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIM Bangalore",
+        "degree": "MBA",
+        "field": "Strategy and Operations",
+        "end_year": 2016
+      }
+    ],
+    "city": "Bangalore",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/priyakm-product",
+    "years_of_experience": 8
+  },
+  {
+    "candidate_name": "Chen Wei",
+    "email_address": "chen.wei@techsg.com",
+    "contact_phone": "+6598765432",
+    "company": "Sea Group",
+    "position": "Principal Engineer",
+    "technical_skills": ["Go", "Java", "Distributed Systems", "Kafka", "Redis", "Kubernetes"],
+    "experience": [
+      {
+        "company": "Sea Group",
+        "title": "Principal Engineer",
+        "start": "2018-06",
+        "end": null,
+        "summary": "Core infrastructure for Shopee payments and Garena gaming platform"
+      },
+      {
+        "company": "ByteDance",
+        "title": "Senior Software Engineer",
+        "start": "2015-03",
+        "end": "2018-05",
+        "summary": "Recommendation algorithm infrastructure for TikTok predecessor"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Tsinghua University",
+        "degree": "B.Eng.",
+        "field": "Software Engineering",
+        "end_year": 2015
+      }
+    ],
+    "city": "Singapore",
+    "country": "SG",
+    "linkedin_url": "https://linkedin.com/in/chenwei-pe",
+    "years_of_experience": 10
+  }
+]

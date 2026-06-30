@@ -1,0 +1,283 @@
+[
+  {
+    "candidate_name": "Karan Mehta",
+    "email_address": "karan.mehta@gmail.com",
+    "contact_phone": "+919876001234",
+    "company": "Paytm",
+    "position": "Lead Backend Engineer",
+    "technical_skills": ["Java", "Spring Boot", "Kafka", "PostgreSQL", "Docker", "Kubernetes"],
+    "experience": [
+      {
+        "company": "Paytm",
+        "title": "Lead Backend Engineer",
+        "start": "2021-06",
+        "end": null,
+        "summary": "Owns payment gateway service handling 2M transactions/day"
+      },
+      {
+        "company": "Juspay",
+        "title": "Backend Engineer",
+        "start": "2018-08",
+        "end": "2021-05",
+        "summary": "Built fraud detection pipeline for UPI transactions"
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIT Delhi",
+        "degree": "B.Tech",
+        "field": "Computer Science",
+        "end_year": 2018
+      }
+    ],
+    "city": "Noida",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/karanmehta-be",
+    "years_of_experience": 6
+  },
+  {
+    "candidate_name": "Divya Nair",
+    "email_address": "divya.nair@outlook.com",
+    "contact_phone": "+919845001234",
+    "company": "Walmart Global Tech",
+    "position": "Data Scientist",
+    "technical_skills": ["Python", "scikit-learn", "SQL", "Apache Spark", "TensorFlow", "Pandas"],
+    "experience": [
+      {
+        "company": "Walmart Global Tech",
+        "title": "Data Scientist",
+        "start": "2022-01",
+        "end": null,
+        "summary": "Demand forecasting models for grocery supply chain"
+      },
+      {
+        "company": "Mu Sigma",
+        "title": "Analyst",
+        "start": "2020-07",
+        "end": "2021-12",
+        "summary": "Retail analytics and dashboard development"
+      }
+    ],
+    "education": [
+      {
+        "institution": "NIT Calicut",
+        "degree": "B.Tech",
+        "field": "Computer Science",
+        "end_year": 2020
+      }
+    ],
+    "city": "Bangalore",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/divyanair-ds",
+    "years_of_experience": 4
+  },
+  {
+    "candidate_name": "Carlos Rivera",
+    "email_address": "carlos.r@techmail.com",
+    "contact_phone": "+14085559923",
+    "company": "Meta",
+    "position": "Senior Software Engineer",
+    "technical_skills": ["Python", "Go", "Distributed Systems", "gRPC", "Kafka", "Redis"],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Senior Software Engineer",
+        "start": "2022-04",
+        "end": null,
+        "summary": "Infrastructure for Reels video delivery pipeline"
+      },
+      {
+        "company": "Netflix",
+        "title": "Software Engineer",
+        "start": "2018-09",
+        "end": "2022-03",
+        "summary": "Content delivery network and streaming backend"
+      }
+    ],
+    "education": [
+      {
+        "institution": "UC Berkeley",
+        "degree": "B.S.",
+        "field": "Electrical Engineering and Computer Science",
+        "end_year": 2018
+      }
+    ],
+    "city": "San Francisco",
+    "country": "US",
+    "linkedin_url": "https://linkedin.com/in/carlosrivera-swe",
+    "years_of_experience": 9
+  },
+  {
+    "candidate_name": "Tanvi Joshi",
+    "email_address": "tanvi.joshi@protonmail.com",
+    "contact_phone": "+918800445566",
+    "company": "CRED",
+    "position": "Senior Product Manager",
+    "technical_skills": ["Product Strategy", "SQL", "A/B Testing", "Analytics", "Mixpanel", "Figma"],
+    "experience": [
+      {
+        "company": "CRED",
+        "title": "Senior Product Manager",
+        "start": "2020-11",
+        "end": null,
+        "summary": "Owns credit health and rewards product vertical"
+      },
+      {
+        "company": "BharatPe",
+        "title": "Associate Product Manager",
+        "start": "2019-02",
+        "end": "2020-10",
+        "summary": "Merchant onboarding and QR payment flow"
+      }
+    ],
+    "education": [
+      {
+        "institution": "IIM Calcutta",
+        "degree": "MBA",
+        "field": "Marketing and Strategy",
+        "end_year": 2019
+      }
+    ],
+    "city": "Bangalore",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/tanvijoshi-pm",
+    "years_of_experience": 5
+  },
+  {
+    "candidate_name": "Mohammed Al-Farsi",
+    "email_address": "m.alfarsi@corp.ae",
+    "contact_phone": "+971501234567",
+    "company": "Careem",
+    "position": "Machine Learning Engineer",
+    "technical_skills": ["Python", "TensorFlow", "PyTorch", "Machine Learning", "AWS", "Docker"],
+    "experience": [
+      {
+        "company": "Careem",
+        "title": "ML Engineer",
+        "start": "2020-03",
+        "end": null,
+        "summary": "Ride demand prediction and driver routing optimization"
+      },
+      {
+        "company": "Noon",
+        "title": "Data Scientist",
+        "start": "2017-05",
+        "end": "2020-02",
+        "summary": "Product recommendation engine for e-commerce"
+      }
+    ],
+    "education": [
+      {
+        "institution": "American University of Sharjah",
+        "degree": "B.Sc.",
+        "field": "Computer Engineering",
+        "end_year": 2017
+      }
+    ],
+    "city": "Dubai",
+    "country": "AE",
+    "linkedin_url": "https://linkedin.com/in/malfarsi-ml",
+    "years_of_experience": 7
+  },
+  {
+    "candidate_name": "Ankit Bose",
+    "email_address": "ankit.b@datamail.com",
+    "contact_phone": "+918977001122",
+    "company": "Rapido",
+    "position": "Data Engineer",
+    "technical_skills": ["Apache Spark", "Python", "Apache Airflow", "Apache Kafka", "Hive", "AWS Glue"],
+    "experience": [
+      {
+        "company": "Rapido",
+        "title": "Data Engineer",
+        "start": "2023-01",
+        "end": null,
+        "summary": "Built real-time ride analytics pipeline from scratch"
+      },
+      {
+        "company": "Ola",
+        "title": "Junior Data Engineer",
+        "start": "2021-07",
+        "end": "2022-12",
+        "summary": "Data warehouse migration from Hadoop to Spark"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Jadavpur University",
+        "degree": "B.E.",
+        "field": "Computer Science",
+        "end_year": 2021
+      }
+    ],
+    "city": "Kolkata",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/ankitbose-de",
+    "years_of_experience": 3
+  },
+  {
+    "candidate_name": "Shreya Kapoor",
+    "email_address": "shreya.k@fintech.in",
+    "contact_phone": "+919711223344",
+    "company": "Zerodha",
+    "position": "Backend Developer",
+    "technical_skills": ["Python", "Go", "PostgreSQL", "Redis", "REST APIs", "Docker"],
+    "experience": [
+      {
+        "company": "Zerodha",
+        "title": "Backend Developer",
+        "start": "2022-06",
+        "end": null,
+        "summary": "Trading engine APIs and order book management"
+      }
+    ],
+    "education": [
+      {
+        "institution": "VIT Vellore",
+        "degree": "B.Tech",
+        "field": "Computer Science",
+        "end_year": 2022
+      }
+    ],
+    "city": "Bangalore",
+    "country": "IN",
+    "linkedin_url": "https://linkedin.com/in/shreyakapoor-be",
+    "years_of_experience": 2
+  },
+  {
+    "candidate_name": "Lucas Fernandez",
+    "email_address": "lucas.f@devmail.com",
+    "contact_phone": "+5511999887766",
+    "company": "Nubank",
+    "position": "Senior Data Engineer",
+    "technical_skills": ["Scala", "Apache Spark", "Apache Kafka", "Python", "AWS", "Terraform"],
+    "experience": [
+      {
+        "company": "Nubank",
+        "title": "Senior Data Engineer",
+        "start": "2019-08",
+        "end": null,
+        "summary": "Real-time fraud scoring pipeline processing 50M events/day"
+      },
+      {
+        "company": "iFood",
+        "title": "Data Engineer",
+        "start": "2017-03",
+        "end": "2019-07",
+        "summary": "ETL pipelines for restaurant and delivery analytics"
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universidade de Sao Paulo",
+        "degree": "B.Sc.",
+        "field": "Computer Science",
+        "end_year": 2017
+      }
+    ],
+    "city": "Sao Paulo",
+    "country": "BR",
+    "linkedin_url": "https://linkedin.com/in/lucasfernandez-de",
+    "years_of_experience": 8
+  }
+]

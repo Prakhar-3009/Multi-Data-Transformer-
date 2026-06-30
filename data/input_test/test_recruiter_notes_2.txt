@@ -1,0 +1,32 @@
+Recruiter Notes — Q4 2025 Pipeline Review
+==========================================
+
+Spoke with Siddharth Rao this week. He told me he's currently at Zepto — but his CV says Groww. Checked his LinkedIn and it looks like he moved to Zepto sometime early 2023, so the CV is just outdated. Either way very strong backend profile, 5 years experience, excellent on Go and distributed systems. He built inventory routing at Zepto handling millions of dark store operations. Contact: sid.rao@gmail.com, mobile +91 88770 01122. Core skills: Python, Go, Kubernetes, PostgreSQL and Redis. Based in Bangalore. Strong recommend for the platform team.
+
+---
+
+Fatima Malik came through our Singapore office referral. Currently a Senior Data Scientist at Grab — 6 years total experience, previously Shopee. Her work is on surge pricing models which is genuinely hard at scale in Southeast Asia. Very composed in interviews, answered every systems question cleanly. Email fatima.m@outlook.com, Singapore number she gave me was 07701234567 — might be missing the country code, will need to confirm. Proficient in Python, PyTorch, Spark, Machine Learning and SQL. Based in Singapore.
+
+---
+
+Had a screening call with James Okafor last Tuesday. He's based in Lagos, working at Andela as a Backend Engineer — 4 years experience including a stint at Flutterwave on payments infrastructure. Nigeria number +234 80 1234 5678. Email j.okafor@techcorp.io. Strong on Node.js, TypeScript and MongoDB. Mentioned he's open to relocation — specifically mentioned London or Toronto. Solid candidate, worth moving forward. His skills include Node.js, TypeScript, MongoDB, Docker and AWS.
+
+---
+
+Pooja Verma reached out about our ML platform role. Her CV says PhonePe but when we spoke she's actually now at Meesho — has been there since mid 2022. 5 years of ML experience, strong in TensorFlow and the standard ML stack. Did fraud detection at PhonePe before switching to recommendation models at Meesho. Email pooja.v@yahoo.com, phone 9910112233 (India). Skills: Python, TensorFlow, Machine Learning, Keras, AWS and Docker. Based in Bangalore currently. Based in Bangalore, India.
+
+---
+
+Nadia Hassan is a strong frontend lead based in Cairo. 7 years experience, currently at Instabug leading their frontend engineering team. Previously at Vezeeta which is a healthcare platform in the MENA region. Very good architectural thinking — described migrating their entire design system from CSS modules to Tailwind during the call which is exactly the kind of initiative we look for. Contact: nadia.h@protonmail.com, Egyptian number +20 100 123 4567. Skills include React, TypeScript, Next.js, GraphQL and CSS. Based in Cairo, Egypt. Would need visa support for a Singapore posting.
+
+---
+
+Varun Agarwal is a data engineering guy from Mumbai, currently at Dream11. Strong Spark and Kafka background — the scale he works at during IPL (10M concurrent users) is genuinely impressive. 4 years total. Previously at MakeMyTrip. Email varun.ag@datamail.com, phone +91 7788 990011. Skills: Spark, Kafka, Airflow, Python, Hive and Snowflake. Also mentioned he's been learning dbt recently which is good. He also uses dbt. Based in Mumbai, India.
+
+---
+
+Priya Krishnamurthy — senior product leader. Her CV shows Byju's but she's clearly moved on, now at Unacademy as Director of Product. 8 years total experience in edtech. She didn't mention an email on the call and I forgot to ask — have it from the ATS as priya.km@email.com. Phone number I got from her assistant: +91 8866 001234. Strong metrics focus, knows SQL well for a PM, does her own analysis. Skills include Product Strategy, SQL, A/B Testing and Analytics. Based in Bangalore, India. Very senior profile, worth a call with our CPO.
+
+---
+
+Chen Wei reached out via LinkedIn. He's a Principal Engineer at Sea Group in Singapore, 10 years experience. Previously ByteDance. Works across Shopee and Garena infrastructure — impressive breadth. Email chen.wei@techsg.com, Singapore number +65 9876 5432. Skills: Go, Java, Kafka, Distributed Systems, Redis and Kubernetes. Mentioned he's open to advisory or full-time senior IC roles. International hire so mobility team needs to be involved. Based in Singapore.

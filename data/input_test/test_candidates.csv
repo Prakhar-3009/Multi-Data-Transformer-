@@ -1,0 +1,8 @@
+name,email,phone,company,title,location,skills,years_experience
+Karan Mehta,karan.mehta@gmail.com,+919876001234,Paytm,Senior Backend Engineer,"Noida, India","Java, Microservices, Kafka, PostgreSQL, Docker, Redis",6
+Divya Nair,divya.nair@outlook.com,9845001234,Walmart Labs,Data Scientist,"Bangalore, India","Python, scikit-learn, SQL, Spark, Pandas, Machine Learning",4
+Carlos Rivera,carlos.r@techmail.com,+14085559923,Netflix,Senior Software Engineer,"Los Angeles, US","Python, Go, Distributed Systems, Kafka, AWS, Redis",9
+Tanvi Joshi,tanvi.joshi@protonmail.com,+918800445566,CRED,Product Manager,"Bangalore, India","Product Strategy, SQL, A/B Testing, Analytics, Agile",5
+Mohammed Al-Farsi,m.alfarsi@corp.ae,+971501234567,Careem,ML Engineer,"Dubai, UAE","Python, TensorFlow, Machine Learning, Docker, AWS, NLP",7
+Ankit Bose,ankit.b@datamail.com,08977001122,Ola,Data Engineer,"Kolkata, India","Spark, Python, Airflow, Kafka, Hive, ETL",3
+Divya Nair,divya.nair@outlook.com,9845001234,Walmart Labs,Data Scientist,"Bangalore, India","Python, scikit-learn, SQL, Spark, Pandas, Machine Learning",4

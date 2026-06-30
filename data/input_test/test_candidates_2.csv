@@ -1,0 +1,9 @@
+name,email,phone,company,title,location,skills,years_experience
+Siddharth Rao,sid.rao@gmail.com,+918877001122,Groww,Senior Software Engineer,"Bangalore, India","Python, Go, Kubernetes, PostgreSQL, Redis, gRPC",5
+Fatima Malik,fatima.m@outlook.com,07701234567,Grab,Data Scientist,"Singapore","Python, Machine Learning, PyTorch, SQL, Spark",6
+James Okafor,j.okafor@techcorp.io,+2348012345678,Andela,Backend Engineer,"Lagos, Nigeria","Node.js, TypeScript, MongoDB, Docker, AWS, REST APIs",4
+Pooja Verma,pooja.v@yahoo.com,9910112233,PhonePe,ML Engineer,"Bangalore, India","Python, TensorFlow, Keras, Machine Learning, AWS, Docker",5
+Siddharth Rao,sid.rao@gmail.com,+918877001122,Groww,Senior Software Engineer,"Bangalore, India","Python, Go, Kubernetes, PostgreSQL, Redis, gRPC",5
+Nadia Hassan,nadia.h@protonmail.com,+201001234567,Instabug,Frontend Lead,"Cairo, Egypt","React, TypeScript, Next.js, GraphQL, CSS, Webpack",7
+Varun Agarwal,varun.ag@datamail.com,+917788990011,Dream11,Data Engineer,"Mumbai, India","Spark, Python, Kafka, Airflow, Hive, Snowflake",4
+Priya Krishnamurthy,priya.km@email.com,,Byju's,Senior Product Manager,"Bangalore, India","Product Strategy, SQL, A/B Testing, Analytics, Jira",8
