@@ -56,23 +56,37 @@ class NormalizationEngine:
     def normalize_fragment(
         self, fragment: CandidateFragment
     ) -> CandidateFragment:
-        """Normalize all fields in a candidate fragment.
-
-        Returns a new fragment with normalized values and updated
-        confidence scores. Fields that fail normalization are set
-        to None with confidence 0.0.
-
-        Args:
-            fragment: Raw or partially processed CandidateFragment.
-
-        Returns:
-            New CandidateFragment with normalized field values.
-        """
+        """Normalize all fields in a candidate fragment."""
         normalized_fields: dict[str, FieldValue] = {}
+        phone_region = self._default_phone_region
+        
+        # 1. Pre-process country to inform phone parsing
+        if "location.country" in fragment.fields:
+            normalized_cty = self._normalize_field("location.country", fragment.fields["location.country"])
+            if normalized_cty is not None:
+                normalized_fields["location.country"] = normalized_cty
+                if isinstance(normalized_cty.value, str):
+                    phone_region = normalized_cty.value
+        elif "location" in fragment.fields and isinstance(fragment.fields["location"].value, dict):
+            loc_val = fragment.fields["location"].value
+            if "country" in loc_val:
+                country_fv = FieldValue(
+                    value=loc_val["country"],
+                    source=fragment.fields["location"].source,
+                    method=fragment.fields["location"].method,
+                    confidence=fragment.fields["location"].confidence,
+                )
+                normalized_cty = self._normalize_field("country", country_fv)
+                if normalized_cty and isinstance(normalized_cty.value, str):
+                    phone_region = normalized_cty.value
 
+        # 2. Process all other fields
         for field_name, field_value in fragment.fields.items():
+            if field_name in normalized_fields:
+                continue # Already processed location.country
+                
             try:
-                normalized = self._normalize_field(field_name, field_value)
+                normalized = self._normalize_field(field_name, field_value, phone_region)
                 if normalized is not None:
                     normalized_fields[field_name] = normalized
             except Exception as e:
@@ -89,7 +103,7 @@ class NormalizationEngine:
         )
 
     def _normalize_field(
-        self, field_name: str, field_value: FieldValue
+        self, field_name: str, field_value: FieldValue, phone_region: str = "US"
     ) -> FieldValue | None:
         """Normalize a single field value based on its field name.
 
@@ -104,7 +118,7 @@ class NormalizationEngine:
         if field_name == "emails":
             return self._normalize_email_field(raw, field_value)
         elif field_name == "phones":
-            return self._normalize_phone_field(raw, field_value)
+            return self._normalize_phone_field(raw, field_value, phone_region)
         elif field_name == "skills":
             return self._normalize_skills_field(raw, field_value)
         elif field_name in ("location.country", "country"):
@@ -153,13 +167,13 @@ class NormalizationEngine:
         return None
 
     def _normalize_phone_field(
-        self, raw: object, fv: FieldValue
+        self, raw: object, fv: FieldValue, phone_region: str
     ) -> FieldValue | None:
         """Normalize a phone value (single string or list)."""
         if isinstance(raw, list):
             normalized = []
             for phone in raw:
-                result, _ = normalize_phone(str(phone), self._default_phone_region)
+                result, _ = normalize_phone(str(phone), phone_region)
                 if result is not None:
                     normalized.append(result)
             normalized = sorted(set(normalized))
@@ -172,7 +186,7 @@ class NormalizationEngine:
                 confidence=fv.confidence * 1.0,
             )
         elif isinstance(raw, str):
-            result, conf = normalize_phone(str(raw), self._default_phone_region)
+            result, conf = normalize_phone(str(raw), phone_region)
             if result is None:
                 return None
             return FieldValue(

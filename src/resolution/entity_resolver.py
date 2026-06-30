@@ -79,9 +79,12 @@ def resolve_entities(
     )
 
     # Stage 3: Fuzzy matching on remaining unmatched fragments
+    # We compare unmatched fragments against ALL fragments (matched and unmatched)
+    # so they can join existing clusters formed during email/phone blocking.
     unmatched = [i for i in range(n) if i not in all_matched]
+    all_indices = list(range(n))
     if unmatched:
-        fuzzy_matches = fuzzy_match_candidates(fragments, unmatched)
+        fuzzy_matches = fuzzy_match_candidates(fragments, unmatched, all_indices)
         for idx_a, idx_b, confidence in fuzzy_matches:
             uf.union(idx_a, idx_b)
             all_matched.update([idx_a, idx_b])

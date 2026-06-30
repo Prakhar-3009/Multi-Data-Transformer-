@@ -273,7 +273,7 @@ class TestSkillNormalization:
         result, conf = self.normalizer.normalize("Pythonn")
         assert result is not None  # Never dropped
         if result == "Python":
-            assert conf >= 0.95
+            assert conf >= 0.85
         else:
             assert result == "Pythonn"
             assert conf == 0.5

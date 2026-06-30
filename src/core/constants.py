@@ -57,14 +57,9 @@ VALIDATION_FAILED: float = 0.0        # Failed — zeroes the product
 # ---------------------------------------------------------------------------
 # Entity resolution thresholds
 # ---------------------------------------------------------------------------
-# Fuzzy name matching: token_sort_ratio threshold for considering two
-# name+company pairs as the same person.
-# 0.85 for name similarity, gated by company match.
-# Conservative: a wrong merge is "confident-wrong" — worse than missed merge.
-
-NAME_SIMILARITY_THRESHOLD: float = 0.85
-# Minimum company similarity to act as gating signal for fuzzy name match.
-COMPANY_SIMILARITY_THRESHOLD: float = 0.80
+# Similarity thresholds for entity resolution (0-100 scale to match RapidFuzz)
+NAME_SIMILARITY_THRESHOLD: float = 85.0
+COMPANY_SIMILARITY_THRESHOLD: float = 80.0
 
 
 # ---------------------------------------------------------------------------
